@@ -1,0 +1,2 @@
+Data is under CC-BY<https://creativecommons.org/licenses/by/4.0/>
+Original data is from <https://data.world/d1gi/missing-fb-posts-w-share-stats?utm_campaign=dataquest&utm_source=blog&utm_content=180122>
